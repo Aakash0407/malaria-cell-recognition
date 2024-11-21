@@ -196,22 +196,16 @@ plt.show()
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-
-![image](https://github.com/Aashima02/malaria-cell-recognition/assets/93427086/55f7d2f1-3ec2-4c39-b218-bcf7c8a2ea83)
-
+![4 2](https://github.com/user-attachments/assets/390fb8b3-daaf-40a2-b7ef-72558dd091d8)
 
 ### Classification Report
-
-![image](https://github.com/Aashima02/malaria-cell-recognition/assets/93427086/2c4ed8de-e78a-46e1-b532-2520d584c142)
-
+![4 3](https://github.com/user-attachments/assets/42ee8487-00eb-4d7c-a238-1671832252e9)
 
 ### Confusion Matrix
-
-![image](https://github.com/Aashima02/malaria-cell-recognition/assets/93427086/ad118a7b-cb80-448b-abc5-e4a744dc9e08)
+![4 4](https://github.com/user-attachments/assets/2db17b82-5db3-4c7b-9f05-506ddb059dfe)
 
 ### New Sample Data Prediction
-
-![image](https://github.com/Aashima02/malaria-cell-recognition/assets/93427086/5ed5a3cf-c82b-440e-a89c-295eb26d0a6f)
+![4 1](https://github.com/user-attachments/assets/bdfd4af1-6079-47a3-b980-bd9d94c552e5)
 
 ## RESULT:
 The model's performance is evaluated through training and testing, and it shows potential for assisting healthcare professionals in diagnosing malaria more efficiently and accurately.
